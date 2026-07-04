@@ -1,0 +1,351 @@
+text,category
+Outlook keeps freezing while composing a new message,Email
+Laptop screen has a visible crack affecting display,Hardware
+My mouse stopped working suddenly,Hardware
+Need admin help to reset password for a shared account,Password Reset
+Security team flagged my account and reset my password,Password Reset
+My browser extension for the CRM stopped working,Software
+Network segmentation is blocking access between departments,Network
+My charger is not powering the laptop anymore,Hardware
+The inventory system shows outdated stock numbers,Software
+I think my account has been hacked,Security
+My computer is showing ransomware warning messages,Security
+My account sent spam emails without my knowledge,Security
+Getting limited connectivity error on network,Network
+Company data appeared on an external file sharing site,Security
+I keep getting disconnected from shared network drives,Network
+Password reset tool is showing a server error,Password Reset
+I'm locked out of my account after too many failed attempts,Password Reset
+VPN server is unreachable according to the error message,VPN
+Printer paper tray keeps jamming on every print job,Hardware
+Split tunneling is not working properly on my VPN,VPN
+My password reset request was never approved by IT,Password Reset
+Battery drains extremely fast on my laptop,Hardware
+Password reset form won't accept my new password,Password Reset
+Network printer is not reachable from my desk,Network
+I noticed unfamiliar devices logged into my account,Security
+Password reset page is showing a blank screen,Password Reset
+Company network is blocking access to a needed website,Network
+Need help installing the VPN client on my home PC,VPN
+My laptop hinge feels loose and unstable,Hardware
+My USB drive triggered a security alert when plugged in,Security
+I can't ping any internal servers from my desk,Network
+Speakers are producing no sound at all,Hardware
+VPN keeps prompting to reinstall network drivers,VPN
+VPN client shows a certificate error on startup,VPN
+I can't install the new accounting software on my laptop,Software
+The CRM software is throwing an error on login,Software
+My account is asking for a password change I didn't request,Password Reset
+The remote support software won't connect to client machines,Software
+Software keeps freezing during large file uploads,Software
+My account received a warning about a login from an unrecognized browser,Security
+I need to report an employee sharing sensitive data externally,Security
+External speakers won't turn on at all,Hardware
+VPN login page keeps redirecting in a loop,VPN
+Connected to VPN but internal wiki is unreachable,VPN
+Network switch in my area seems to be down,Network
+Reset link says it has already been used,Password Reset
+Unable to reset password because my phone number changed,Password Reset
+Laptop takes an unusually long time to boot up,Hardware
+I need help uninstalling an old version of the software,Software
+Network configuration seems to have reset overnight,Network
+Unauthorized charge appeared after a data breach warning,Security
+External hard drive is not showing up on my computer,Hardware
+Forgot the password for my work laptop login,Password Reset
+My new password doesn't meet the complexity requirements,Password Reset
+VPN gateway appears to be down company wide,VPN
+Network cable in my office seems to be damaged,Network
+I need to reset the password on a service account,Password Reset
+Sent items folder is not showing my recent emails,Email
+I can't access cloud storage due to network timeout,Network
+Laptop keyboard tray is stuck and won't slide,Hardware
+I want to report a potential insider threat,Security
+Network speed test shows far lower than expected,Network
+My badge access was used at a location I never visited,Security
+My laptop can't find the office wifi network,Network
+The internet is down in the entire office,Network
+VPN setup instructions are not working on my Mac,VPN
+Outlook is showing duplicate emails in my inbox,Email
+Laptop battery is not holding a charge overnight,Hardware
+My external monitor shows a resolution issue,Hardware
+Ethernet cable is connected but no internet access,Network
+I think someone is monitoring my computer activity,Security
+New password is being rejected as too weak,Password Reset
+Emails are going straight to spam for no reason,Email
+My webcam light turned on without me starting a call,Security
+Outlook shows a certificate warning every time it opens,Email
+Unable to reach internal servers after connecting to VPN,VPN
+My antivirus flagged a suspicious file,Security
+My mouse cursor is jumping around unpredictably,Hardware
+I can't attach files larger than a few megabytes,Email
+Need to reset password for a newly created employee account,Password Reset
+My login credentials seem to have been reset without my request,Password Reset
+Shared calendar invites are not appearing for my team,Email
+VPN is extremely slow today,VPN
+Password reset is required but the button is greyed out,Password Reset
+Outlook keeps crashing when I open it,Email
+Laptop lid sensor is not turning the screen off properly,Hardware
+Laptop vents feel extremely hot to the touch,Hardware
+My presentation software won't export to PDF correctly,Software
+My out of office message is not being sent automatically,Email
+I need help setting up a new distribution group,Email
+My webcam is not being detected by the system,Hardware
+An unknown device was granted admin rights on our network,Security
+Outlook is stuck on loading profile at startup,Email
+My contacts list disappeared from Outlook,Email
+My network adapter shows a driver error,Network
+Unable to launch VPN client after a Windows update,VPN
+Unable to send emails to external addresses,Email
+Unrecognized software was installed on my machine overnight,Security
+VPN password is not being accepted,VPN
+Laptop screen is flickering constantly,Hardware
+I want to report a colleague's account behaving suspiciously,Security
+My time tracking app is not syncing entries properly,Software
+Unable to browse the internet despite being connected,Network
+Cisco AnyConnect VPN won't launch,VPN
+Password field won't accept special characters during reset,Password Reset
+My email password isn't syncing with my phone,Password Reset
+I keep losing connection to the VPN through this network,Network
+Emails from a specific sender always go to junk,Email
+Laptop is overheating and shutting down,Hardware
+Can you send me a password reset link,Password Reset
+The helpdesk software is not assigning tickets automatically,Software
+I can't forward emails to my personal account,Email
+Wireless network is not showing up on my laptop,Network
+VPN blocks me from accessing my personal email,VPN
+Wifi signal is extremely weak on the second floor,Network
+My inbox is showing an error message,Email
+Outlook rules are not filtering emails correctly,Email
+Outlook is not sending or receiving emails,Email
+Getting a DNS resolution error while connected to VPN,VPN
+Docking station fails to detect my second monitor,Hardware
+I received a suspicious text pretending to be from the security team,Security
+Software update failed and now the app won't launch,Software
+My monitor has dead pixels in the corner,Hardware
+Printer is jamming every time I try to print,Hardware
+Antivirus scan found multiple threats on my desktop,Security
+Microsoft Word won't open at all,Software
+Password reset process is stuck on the verification step,Password Reset
+Need to report a security incident,Security
+I suspect my credentials were exposed in a data leak,Security
+Network policy is preventing access to a shared printer,Network
+Password reset email never arrived in my inbox,Password Reset
+Laptop fan is making a loud grinding noise,Hardware
+My account shows locked even though I just reset the password,Password Reset
+I need VPN access set up for remote work,VPN
+My spreadsheet formulas stopped calculating correctly,Software
+Software license key is being rejected during activation,Software
+Network firewall is blocking a required application port,Network
+VPN icon shows connected but I have no internal access,VPN
+VPN keeps disconnecting every few minutes,VPN
+My desktop tower is making unusual clicking sounds,Hardware
+Account locked and need password reset urgently,Password Reset
+The VPN connection times out constantly,VPN
+Password reset link was sent to the wrong email address,Password Reset
+Docking station lights are on but nothing connects,Hardware
+Wifi router needs to be restarted but I don't have access,Network
+I need a new software license activated,Software
+VPN connection drops whenever my laptop goes to sleep,VPN
+I accidentally deleted an important email and need it recovered,Email
+I can't reply to emails using the mobile app,Email
+The video conferencing app won't share my screen,Software
+Application update requires a restart that keeps failing,Software
+Laptop charger cable appears to be frayed,Hardware
+Unable to access the internal company website,Network
+The survey tool is not saving responses correctly,Software
+Network drive is not accessible from my computer,Network
+Need to reset password for the HR portal,Password Reset
+Laptop randomly shuts down during meetings,Hardware
+My account triggered a fraud alert on the payment system,Security
+I received a call pretending to be IT support trying to gain remote access to my computer,Security
+I detected a fake login page mimicking our company portal,Security
+VPN tunnel keeps renegotiating every few seconds,VPN
+Network monitoring shows unusual spikes in traffic,Network
+My email account got flagged and I can't figure out why,Email
+Docking station is not charging my laptop,Hardware
+VPN speed test shows almost no bandwidth,VPN
+The chat application keeps logging me out randomly,Software
+Remote desktop won't work even though VPN is connected,VPN
+Email notifications have stopped showing up on my desktop,Email
+Unable to connect to VPN from the guest wifi network,VPN
+VPN keeps asking for two factor code repeatedly,VPN
+My inbox rules stopped working after the migration,Email
+My account was locked after a suspected brute force attack,Security
+VPN authentication keeps failing on my phone,VPN
+I can't remember my security questions to reset my password,Password Reset
+Multiple failed login attempts have frozen my account,Password Reset
+Webcam picture is extremely blurry during calls,Hardware
+Headset microphone is not working,Hardware
+Unable to access company VPN while traveling,VPN
+Application shortcuts disappeared from my desktop,Software
+Need help resetting password for the finance system,Password Reset
+Someone tried to access my account from another country,Security
+Monitor is not displaying anything,Hardware
+I need Adobe Acrobat installed on my machine,Software
+Software keeps prompting for an update that never installs,Software
+My VPN connection is flagged as insecure by antivirus,VPN
+I need to change my password after a suspected leak,Password Reset
+The onboarding tool is missing several required fields,Software
+I forgot my password and can't log in,Password Reset
+I clicked a link that looks like phishing and want to know what to do,Security
+The scheduling software double books meeting rooms,Software
+My files were encrypted and a ransom message appeared,Security
+Password manager is showing an outdated password for this account,Password Reset
+Power button on my desktop is not responding,Hardware
+I can't switch VPN servers to a different region,VPN
+Outlook is showing an outdated inbox even after refreshing,Email
+I cannot access shared drives even with VPN connected,VPN
+My machine is behaving oddly and I suspect spyware,Security
+I need a larger mailbox quota for my account,Email
+Laptop battery indicator shows incorrect charge levels,Hardware
+My laptop won't turn on,Hardware
+Monitor keeps flickering between colors,Hardware
+I can't connect to the VPN from home,VPN
+My code editor lost all of my saved extensions,Software
+Laptop touchpad is unusually sensitive and erratic,Hardware
+I can't access the shared team folder over the network,Network
+Reset link takes me to an error page,Password Reset
+Laptop screen brightness won't adjust properly,Hardware
+I need access to a specific module in our ERP system,Software
+I need to report a lost company laptop for security reasons,Security
+I need to report a stolen laptop containing sensitive files,Security
+Old password still works even after I reset it,Password Reset
+Our company was named in a public data breach report,Security
+Excel keeps crashing when I open large files,Software
+Network outage is affecting the entire building,Network
+My coworker can connect to VPN but I cannot,VPN
+My personal data appeared in a leaked database,Security
+Keyboard is typing the wrong characters,Hardware
+Getting an error when trying to log into the VPN client,VPN
+Emails I send are landing in the recipient's spam folder,Email
+My account keeps saying incorrect password even after resetting,Password Reset
+Zoom app crashes whenever I join a meeting,Software
+I need the design software licensed for a second monitor setup,Software
+My scanner is not being recognized by the computer,Hardware
+My account requires admin approval before password reset,Password Reset
+Software keeps showing a trial banner even though it's licensed,Software
+The design tool crashes whenever I export a file,Software
+Received a phishing email asking for my credentials,Security
+My project management tool won't load past the login screen,Software
+Wifi password is not being accepted on the guest network,Network
+Wifi keeps asking me to sign in repeatedly,Network
+Software crashes specifically when printing reports,Software
+My laptop is displaying pop ups warning of a virus,Security
+I need VPN access extended for a new project,VPN
+Application is showing a blank white screen after login,Software
+My keyboard backlight suddenly stopped working,Hardware
+My laptop cannot obtain an IP address automatically,Network
+I need a static IP address configured for my workstation,Network
+Application won't recognize my company login credentials,Software
+Outlook won't let me create a new folder,Email
+My email client won't connect to the mail server,Email
+Application freezes every time I try to save,Software
+I changed my password but it's not working now,Password Reset
+I need a temporary password to access the system today,Password Reset
+Email attachments won't download,Email
+My laptop screen hinge makes a cracking sound,Hardware
+Remote office reports complete loss of internet access,Network
+My email signature isn't updating,Email
+Outlook keeps prompting for credentials repeatedly,Email
+I suspect a keylogger was installed on my machine,Security
+I typed my password correctly but still can't log in,Password Reset
+Application keeps asking me to reinstall a missing component,Software
+Outlook won't sync with my mobile device anymore,Email
+A malware alert popped up while I was browsing a work related site,Security
+Network is extremely slow this afternoon,Network
+I can't collaborate in real time using the shared document tool,Software
+Conference room WiFi is not working,Network
+I need my temporary password reissued,Password Reset
+External keyboard is not pairing over Bluetooth,Hardware
+Keyboard keys are not responding,Hardware
+PowerPoint is not letting me insert images,Software
+The reporting dashboard shows incorrect data after the update,Software
+Software installer gets stuck at the same percentage every time,Software
+Shared mailbox is not appearing in Outlook,Email
+Unable to renew my VPN certificate,VPN
+Outlook add-ins are missing after the recent update,Email
+Printer is not turning on,Hardware
+Someone changed my account settings without my permission,Security
+My laptop shows connected but has zero internet access,Network
+Emails sent to me are bouncing back to the sender,Email
+VPN app crashes immediately after opening,VPN
+Security software is quarantining a legitimate work file,Security
+Network latency is causing delays in every application,Network
+My email password keeps getting rejected during setup,Email
+Application settings reset every time I restart my laptop,Software
+Printer is out of toner and needs replacement,Hardware
+I can't merge documents using the new software update,Software
+Office network was compromised by an unknown device,Network
+I can't open files created in the newer software version,Software
+I need to reset my password before my trial expires,Password Reset
+VPN client won't update to the latest version,VPN
+I need to recover emails from an archived folder,Email
+Can't set up my email on my new phone,Email
+My account attempted a login from two countries at once,Security
+I need guidance after downloading a file from an unknown sender,Security
+Password reset request is stuck in pending status,Password Reset
+My laptop camera cover was found open after I left the room,Security
+My headphones are producing a buzzing sound,Hardware
+My wired connection shows no internet access,Network
+Internet connection keeps dropping during video calls,Network
+Please reset my account password,Password Reset
+Network connection drops whenever it rains heavily,Network
+My laptop keeps switching between wifi networks randomly,Network
+My email account stopped working without any explanation,Email
+Auto reply is not working while I'm on leave,Email
+My VPN license seems to have expired,VPN
+My VPN access was revoked without notice,VPN
+Password expired notice keeps appearing even after I changed it,Password Reset
+The invoicing software is calculating totals incorrectly,Software
+Suspicious activity was detected on our company file server,Security
+Suspicious login attempt detected on my account,Security
+Application update broke a feature I use daily,Software
+VPN blocks printing to my home printer,VPN
+I found unauthorized access logs on my workstation,Security
+Password reset link has expired before I could use it,Password Reset
+The database tool throws a connection error on startup,Software
+My laptop case has visible physical damage,Hardware
+VPN connection is stuck at negotiating security settings,VPN
+Email encryption settings are preventing me from opening a message,Email
+My phone shows an unrecognized app requesting admin access,Security
+Security scan flagged an outdated encryption certificate,Security
+VPN shows connected but browser says no internet,VPN
+A fraudulent transaction was linked to my company card,Security
+Router in my department appears to be malfunctioning,Network
+My connection speed drops significantly during peak hours,Network
+Security team asked me to update my login details immediately after an alert,Security
+Outlook calendar invites are not syncing,Email
+Password reset confirmation code never arrived by text,Password Reset
+VoIP calls keep dropping due to network issues,Network
+I received a fake invoice email requesting payment,Security
+Building wide network maintenance caused unexpected downtime,Network
+I keep getting logged out right after resetting my password,Password Reset
+VPN is not working on my new laptop,VPN
+My signature image is broken in outgoing emails,Email
+WiFi keeps disconnecting throughout the day,Network
+My monitor stand is broken and needs replacement,Hardware
+My mailbox storage is full and I can't receive mail,Email
+Trackpad has stopped responding to touch,Hardware
+Wifi extender in the warehouse is not functioning,Network
+I'm not getting any new emails since this morning,Email
+My antivirus software is blocking a legitimate application,Software
+My VPN profile disappeared after the last update,VPN
+IP address conflict causing network issues,Network
+The internal ticketing tool is showing a blank screen,Software
+Unable to open PDF attachments in email,Email
+Email search is not returning any results,Email
+My VPN session logs me out every ten minutes,VPN
+I get a timeout error whenever I try to connect to VPN,VPN
+VPN tunnel closes unexpectedly during file transfers,VPN
+USB ports are not recognizing any devices,Hardware
+Unable to connect to the office network,Network
+VPN configuration file seems to be corrupted,VPN
+Software trial expired and I need it renewed,Software
+My password expired and I can't create a new one,Password Reset
+Unable to set a new password after clicking the reset link,Password Reset
+Emails are being delayed by several hours,Email
+My distribution list is missing several team members,Email
+Outlook search only shows results from today,Email
+VPN drops every time I open a video call,VPN
+Forgot my Windows login password,Password Reset
+Wifi network name is missing from the available list,Network
