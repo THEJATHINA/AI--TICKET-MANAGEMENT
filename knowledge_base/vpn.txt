@@ -1,0 +1,16 @@
+Title: VPN Troubleshooting Guide
+
+Problem:
+Users receive a VPN connection timeout error while trying to connect to the corporate network.
+
+Possible Causes:
+- Poor internet connection
+- Incorrect VPN credentials
+- Firewall blocking VPN traffic
+
+Resolution:
+1. Verify internet connection.
+2. Restart the VPN client.
+3. Verify username and password.
+4. Update the VPN client.
+5. Contact IT support if the issue persists.

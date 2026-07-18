@@ -1,0 +1,19 @@
+Title: Network Connectivity Troubleshooting
+
+Category: Network
+
+Problem:
+The computer cannot access the internet or company network.
+
+Possible Causes:
+- Wi-Fi disconnected
+- Ethernet cable unplugged
+- DNS issues
+- Router problems
+
+Resolution:
+1. Check network cables.
+2. Reconnect to Wi-Fi.
+3. Restart the router.
+4. Run network diagnostics.
+5. Flush DNS cache.

@@ -1,0 +1,16 @@
+Title: Printer Troubleshooting Guide
+Category: Hardware
+Problem:
+The printer is not printing documents or is showing as offline.
+Possible Causes:
+- Printer is powered off
+- Printer is disconnected from the network
+- Paper jam
+- Printer driver is missing or outdated
+Resolution:
+1. Check if the printer is powered on.
+2. Verify the USB or network connection.
+3. Clear any paper jams.
+4. Restart the printer.
+5. Reinstall or update the printer driver.
+6. Print a test page.

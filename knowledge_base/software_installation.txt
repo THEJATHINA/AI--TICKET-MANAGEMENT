@@ -1,0 +1,19 @@
+Title: Software Installation Troubleshooting
+
+Category: Software
+
+Problem:
+The software installation fails or stops unexpectedly.
+
+Possible Causes:
+- Insufficient disk space
+- Missing administrator privileges
+- Corrupted installer
+- Antivirus blocking installation
+
+Resolution:
+1. Verify available disk space.
+2. Run the installer as Administrator.
+3. Download a fresh installer.
+4. Temporarily disable antivirus if allowed.
+5. Restart the computer and try again.

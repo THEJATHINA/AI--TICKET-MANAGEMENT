@@ -1,0 +1,18 @@
+Title: Firewall Troubleshooting Guide
+
+Category: Security
+
+Problem:
+Applications or VPN connections are blocked by the firewall.
+
+Possible Causes:
+- Firewall rules blocking traffic
+- Incorrect security policy
+- Closed ports
+
+Resolution:
+1. Review firewall rules.
+2. Allow the application or VPN.
+3. Open required ports.
+4. Restart the firewall service.
+5. Test the connection again.
