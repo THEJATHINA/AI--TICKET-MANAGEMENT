@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Classification Results</title>
+
+    <link rel="stylesheet" href="../style.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <!-- Header -->
+        <header class="header">
+            <h1><i class="fa-solid fa-robot"></i> SupportPilot – AI Ticket Classification</h1>
+            <p>Enterprise AI Support Dashboard<br>Real-Time Ticket Classification Results</p>
+        </header>
+
+        <!-- Summary Cards -->
+        <section class="summary-cards" aria-label="Ticket summaries">
+            <div class="card" id="cardTotal">
+                <div class="card-icon"><i class="fa-solid fa-inbox"></i></div>
+                <div class="card-body">
+                    <div class="card-title">Total Tickets</div>
+                    <div class="card-value" id="totalTickets">0</div>
+                </div>
+            </div>
+
+            <div class="card" id="cardOpen">
+                <div class="card-icon"><i class="fa-solid fa-door-open"></i></div>
+                <div class="card-body">
+                    <div class="card-title">Open Tickets</div>
+                    <div class="card-value" id="openTickets">0</div>
+                </div>
+            </div>
+
+            <div class="card" id="cardClosed">
+                <div class="card-icon"><i class="fa-solid fa-lock-open"></i></div>
+                <div class="card-body">
+                    <div class="card-title">Closed Tickets</div>
+                    <div class="card-value" id="closedTickets">0</div>
+                </div>
+            </div>
+
+            <div class="card" id="cardHigh">
+                <div class="card-icon"><i class="fa-solid fa-arrow-up"></i></div>
+                <div class="card-body">
+                    <div class="card-title">High Severity</div>
+                    <div class="card-value" id="highTickets">0</div>
+                </div>
+            </div>
+
+            <div class="card" id="cardMedium">
+                <div class="card-icon"><i class="fa-solid fa-ellipsis-h"></i></div>
+                <div class="card-body">
+                    <div class="card-title">Medium Severity</div>
+                    <div class="card-value" id="mediumTickets">0</div>
+                </div>
+            </div>
+
+            <div class="card" id="cardLow">
+                <div class="card-icon"><i class="fa-solid fa-arrow-down"></i></div>
+                <div class="card-body">
+                    <div class="card-title">Low Severity</div>
+                    <div class="card-value" id="lowTickets">0</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search -->
+        <section class="search-section">
+            <div class="search-input-wrapper">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="searchInput" placeholder="Search by ticket ID, subject, department or status" aria-label="Search tickets">
+            </div>
+        </section>
+
+        <!-- Ticket Table -->
+        <section class="table-section">
+            <table id="ticketTable">
+                <thead>
+                    <tr>
+                        <th>Ticket ID</th>
+                        <th>Subject</th>
+                        <th>Category</th>
+                        <th>Severity</th>
+                        <th>Priority</th>
+                        <th>Confidence</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="ticketBody">
+                    <!-- Dummy data will load here -->
+                </tbody>
+            </table>
+
+            <div class="loading-state" id="loadingState" role="status" aria-live="polite">
+                <div class="spinner"></div>
+                <p>Loading ticket results…</p>
+            </div>
+
+            <div class="empty-state" id="emptyState" hidden>
+                <i class="fa-solid fa-inbox"></i>
+                <h3>No tickets found</h3>
+                <p>Try a different keyword or clear the search field.</p>
+            </div>
+        </section>
+
+        <!-- Ticket Details Modal -->
+        <div class="modal" id="detailsModal" aria-hidden="true">
+            <div class="modal-panel">
+                <button class="modal-close close-btn" aria-label="Close details">&times;</button>
+                <div class="modal-header">
+                    <h2>Ticket Details</h2>
+                </div>
+                <div class="modal-body" id="ticketDetails">
+                    <!-- Ticket Details injected by scripts.js -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../scripts.js"></script>
+</body>
+</html>
