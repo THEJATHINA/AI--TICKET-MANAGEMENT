@@ -1,58 +1,147 @@
-# Ticket Submission Form — Setup
+# SupportPilot - Member 1 (Database & Backend Foundation)
 
-## 1. Install dependencies
-```bash
-npm install axios @tanstack/react-query lucide-react
-npx shadcn@latest add button input textarea label select card alert
+## Project Overview
+
+This repository contains my contribution as **Member 1** for the **SupportPilot** project.
+
+My responsibility was to design the database foundation of the project, configure the MySQL database connection, create the SQLAlchemy ORM models, and finalize the database schema that the remaining team members would use during development.
+
+---
+
+# Responsibilities
+
+As **Member 1 – DB & Backend Foundation**, I completed the following tasks:
+
+- Designed the database schema.
+- Created the Users and Tickets tables.
+- Configured the MySQL database connection.
+- Implemented SQLAlchemy ORM models.
+- Defined relationships between database tables.
+- Finalized the database schema for team integration.
+- Initialized the database using SQLAlchemy.
+
+---
+
+# Technologies Used
+
+- Python 3
+- FastAPI
+- MySQL
+- SQLAlchemy ORM
+- PyMySQL
+- Uvicorn
+
+---
+
+# Database Schema
+
+The database includes the following tables:
+
+- Users
+- Tickets
+- Ticket Responses
+- Activity Logs
+- Escalations
+- Jira Tickets
+- Knowledge Base
+
+---
+
+# Core Database Tables
+
+## Users
+
+Fields:
+
+- user_id
+- name
+- email
+- department
+- role
+- created_at
+
+---
+
+## Tickets
+
+Fields:
+
+- ticket_id
+- user_id
+- subject
+- description
+- priority
+- severity
+- status
+- created_at
+
+---
+
+# Database Relationships
+
+- One User can have multiple Tickets.
+- Each Ticket belongs to one User.
+- Ticket Responses are linked to Tickets.
+- Activity Logs are linked to Tickets.
+- Escalations are linked to Tickets.
+- Jira Tickets are linked to Tickets.
+
+---
+
+# Project Structure
+
 ```
-(shadcn's CLI drops components into `src/components/ui/`, matching the imports in `TicketForm.jsx`.)
+supportpilot-member1-backend
+│
+├── app
+│   ├── __init__.py
+│   ├── database.py
+│   ├── models.py
+│   └── main.py
+│
+├── database
+│   └── Dump20260701.sql
+│
+├── requirements.txt
+├── README.md
 
-## 2. Wrap your app in a QueryClientProvider
-In `main.jsx` / `App.jsx`, wherever your app root is:
-```jsx
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
-const queryClient = new QueryClient();
 
-<QueryClientProvider client={queryClient}>
-  <App />
-</QueryClientProvider>
-```
+---
 
-## 3. Set the API base URL
-Create `.env`:
-```
-VITE_API_BASE_URL=http://localhost:8000/api
-```
-Update it to Member 2's actual endpoint once it's up. Adjust `.post("/tickets", ...)` in
-`src/api/ticketApi.js` if the real route path differs.
 
-## 4. Drop in the files
-Copy this folder's `src/` contents into your project's `src/`, then render:
-```jsx
-import TicketForm from "@/components/TicketForm";
+# Database Initialization
 
-<TicketForm />
-```
+When the application starts, SQLAlchemy automatically creates the database tables from the ORM models.
 
-## Files
-- `src/api/ticketApi.js` — axios client + `createTicket()` call
-- `src/lib/validateTicket.js` — form validation rules
-- `src/components/TicketForm.jsx` — the form UI, wired to axios via TanStack Query's `useMutation`
+---
 
-## Expected API contract
-**Request** — `POST /tickets`
-```json
-{
-  "title": "VPN Connection Failing on Corporate Network",
-  "description": "Unable to connect to VPN since this morning...",
-  "requesterEmail": "john.doe@company.com",
-  "department": "IT"
-}
-```
-**Response (success)**
-```json
-{ "ticketId": "T-2026-4521" }
-```
-Confirm this shape with Member 2 — adjust the field name read in `TicketForm.jsx`
-(`mutation.data?.ticketId`) if their API returns something different (e.g. `id`).
+# Deliverables
+
+- MySQL Database Configuration
+- SQLAlchemy ORM Models
+- Database Schema Design
+- SQL Database Export (`Dump20260701.sql`)
+- Backend Foundation Initialization
+
+---
+
+# Member Information
+
+**Role:** Member 1 – Database & Backend Foundation
+
+**Responsibilities Completed:**
+
+- Database Design
+- MySQL Configuration
+- SQLAlchemy ORM Models
+- Database Initialization
+- Schema Finalization
+
+---
+
+# Note
+
+This repository contains **only the work completed by Member 1 (Database & Backend Foundation)**.
+
+The Ticket Intake API, request validation, and ticket submission endpoints were developed as separate responsibilities by other team members.
