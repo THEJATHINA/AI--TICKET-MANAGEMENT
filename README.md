@@ -2,7 +2,7 @@
   <br>
   🤖 SupportPilot AI
   <br>
-  <sub><sup>AI-Powered Enterprise IT Helpdesk & Ticket Management System</sup></sub>
+  <sub><sup>AI-Powered Customer Support Platform with Ticket Resolution Agent</sup></sub>
 </h1>
 
 <p align="center">
